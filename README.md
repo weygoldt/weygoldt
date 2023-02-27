@@ -1,7 +1,7 @@
 
 <h3 align="center">👋 Hi there! I'm Patrick</h3>
 <p align="center">
-  <a href="https://weygoldt.com">Website</a> •
+  <a href="https://weygoldt.github.io">Website</a> •
   <a href="https://twitter.com/weygoldtp">Twitter</a> •
   <a href="https://www.instagram.com/weygoldtphoto/">Instagram</a>
 </p>
