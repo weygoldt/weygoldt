@@ -11,4 +11,4 @@
 
 🐢 Other than that, I spend my spare time with scuba-diving 🤿, photography 📷 and learning GNU/Linux 🐧. Check out my dotfiles [here](https://github.com/weygoldt/dotfiles).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weygoldt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weygoldt&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
