@@ -7,6 +7,6 @@
 </p>
 
 ---
- 🦎 I'm a masters student of neurobiology and evolutionary ecology with a focus on **animal behavior**. Currently, I am mainly following an exploratory approach in the analysis of **electric communication signals** of weakly electric fish 🐟⚡️. Check out my last project about [synchronously 'singing' weakly electric fish](https://github.com/weygoldt/synchronous-modulations) recorded in their natural habitat in Colombia.
+I'm a masters student of neurobiology and evolutionary ecology with a focus on **animal behavior**. Currently, I am mainly following an exploratory approach in the analysis of **electric communication signals** of weakly electric fish 🐟⚡️. Check out my last project about [synchronously 'singing' weakly electric fish](https://github.com/weygoldt/synchronous-modulations) recorded in their natural habitat in Colombia.
 
-🐢 Other than that, I spend my spare time with scuba-diving 🤿, photography 📷 and learning GNU/Linux 🐧. Check out my dotfiles [here](https://github.com/weygoldt/dotfiles).
+Other than that, I spend my spare time with scuba-diving 🤿, photography 📷 and learning GNU/Linux 🐧. Check out my dotfiles [here](https://github.com/weygoldt/dotfiles).
